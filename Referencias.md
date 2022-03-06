@@ -1,6 +1,6 @@
 # Referências
 
-Refencia | Link
+Referência | Link
 --- | --- 
 LEAF Instagram | N/A
 LEAF Site | N/A
