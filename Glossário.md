@@ -4,4 +4,4 @@ Holding  | Holding é um termo utilizado para identificar um modelo de negócio 
 NFE | N/A
 XML | N/A
 CHRO | Chief Human Resource Officer (Chefe de Recursos Humanos)
-CFO | N/A
+CFO | Chief Finacial Officer (Chefe/Diretora Financeiro)
