@@ -17,5 +17,5 @@
 Exemplo   | Contato
 --------- | ------
 LEAF Contato Tel | (11) 9 8765-4321
-LEAF E-mail | 
+LEAF E-mail | adm.financeiro@leafgestaovarejo.com.br
 Silvana (CFO/CSO) | (11) 9999-9999
