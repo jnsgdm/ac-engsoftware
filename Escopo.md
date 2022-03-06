@@ -11,3 +11,11 @@
 <p> O sistema atual também não registra todas as transações realizadas, o que impossibilita a geração de relatórios confiáveis. </p>
 
 <p> Como solução a empresa almeja um sistema automatizado, no qual as entradas de inventário sejam realizadas via XML de forma confiável e performática; todas as transações devem ser devidamente registradas, contendo os dados da transação e os dados do usuário que realizou a transação, fornecendo assim confiabilidade nos dados posteriormente extraídos para análise e um histórico que pode ser utilizada para auditoria quando necessário. </p>
+
+
+### Contatos
+Exemplo   | Contato
+--------- | ------
+LEAF Contato Tel | (11) 9 8765-4321
+LEAF E-mail | 
+Silvana (CFO/CSO) | (11) 9999-9999
