@@ -10,3 +10,11 @@
 ### 8. <a href="https://github.com/jnsgdm/ac-engsoftware/blob/main/An%C3%A1lise%20das%20causas%20ra%C3%ADzes.pdf">Análise das Causas Raízes</a>
 ### 9. <a href="https://github.com/jnsgdm/ac-engsoftware/blob/main/Usu%C3%A1rios%20e%20outros%20stakeholders.pdf">Usuários e Outros Stakeholders</a>
 ### 10. <a href="https://github.com/jnsgdm/ac-engsoftware/blob/main/Fronteira%20sist%C3%AAmica.pdf">Fronteira Sistêmica</a>
+<hr>
+
+ Nome dos Membros  | 
+--------- | 
+Higor Gabriel Ferreira Silva | 
+Jonas Gonçalves D'Angelo Moreira | 
+Vitor Luiz Ramalho | 
+Vitor Pereira Francisco | 
