@@ -12,9 +12,9 @@
 ### 10. <a href="https://github.com/jnsgdm/ac-engsoftware/blob/main/Fronteira%20sist%C3%AAmica.pdf">Fronteira Sistêmica</a>
 <hr>
 
- Nome dos Membros  | 
---------- | 
-Higor Gabriel Ferreira Silva | 
-Jonas Gonçalves D'Angelo Moreira | 
-Vitor Luiz Ramalho | 
-Vitor Pereira Francisco | 
+ Nome dos Membros  | RA
+--------- | ---------
+Higor Gabriel Ferreira Silva | 2101910
+Jonas Gonçalves D'Angelo Moreira | 2101852
+Vitor Luiz Ramalho | 2102820
+Vitor Pereira Francisco | 2101830
